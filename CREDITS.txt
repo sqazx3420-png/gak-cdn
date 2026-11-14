@@ -1,0 +1,165 @@
+각성자 게임에 쓰인 자산의 출처·조건 — 게임 안에도 같은 표기가 있습니다.
+
+== assets/chars/CREDITS.txt
+Mujin.vrm — 「甲冑兵（銀）」 by 安田画房 (yasudagabou) https://hub.vroid.com/characters/6577380378396061330/models/4836092755332670118
+  조건(2026-11-05 확인): 아바타 이용 모두 허용 · 폭력 허용 · 수정 허용 · 재배포 허용 · 개인·법인 상업 허용 · 표기 불필요. 가공: strip_morph(모프 390 제거) → shrink_vrm 512/768
+Yeomha.vrm — 「A」 by A  https://hub.vroid.com/characters/1492734943427620115/models/6395790354623425929
+  조건(2026-11-05 확인): 아바타 이용 모두 허용 · 폭력 허용 · 수정 허용 · 재배포 허용 · 상업 허용 · 표기 불필요. 가공: strip_morph → shrink_vrm 512/768
+Seola.vrm — 「Alisia Arcroid 1.0」 by archekitai  https://hub.vroid.com/characters/911969770469619656/models/2799913824541792555
+  조건(2026-11-05 확인): 아바타 이용 모두 허용 · 폭력 허용 · 수정 허용 · 재배포 허용 · 상업 허용 · 표기 불필요. 가공: strip_morph → shrink_vrm 512/768
+Byeolha.vrm — 「三笠 / 巫女さんver.」 by 胡桃  https://hub.vroid.com/characters/6891708146950433076/models/7549031683730271867
+  조건(2026-11-05 확인): 아바타 이용 모두 허용 · 폭력 허용 · 수정 허용 · 재배포 허용 · 상업 허용 · 표기 불필요. 가공: strip_morph → shrink_vrm 512/768
+Mujin.vrm(392판-b 교체) — 「Young Leonidas」 by BeanMChocolate  https://hub.vroid.com/characters/5040765116196254260/models/4363486576734598301
+  조건(2026-11-05 확인): 아바타 이용 모두 허용 · 폭력 허용 · 수정 허용 · 재배포 허용 · 상업 허용 · 표기 불필요. 가공: strip_morph → shrink_vrm 512/768. 예전 甲冑兵(銀) 몸은 원본만 dl/vroidhub/vrm/kacchu_silver.vrm 에 남김
+Kacchu.vrm(411판 갑주 기사단 적) — 「甲冑兵(銀)」 by 安田画房  https://hub.vroid.com/characters/-/models/4836092755332670118
+  조건(2026-11-05 확인): 수정·재배포·상업 허용 · 표기 불필요. 가공: strip_morph → shrink_vrm 512/768(12.5→2.1MB). 원본 dl/vroidhub/vrm/kacchu_silver.vrm
+Vain.vrm(412판 흑철 군단) — 「量産型Vain」(MP-Vain-VRM) by vain  https://hub.vroid.com/characters/1167482849034876090/models/3689446573889535153
+Trooper.vrm(412판 흑철 군단) — 「ラムダ団特務戦闘員」(DamnedTrooperVRM-Base) by vain  https://hub.vroid.com/characters/3164568388239234992/models/8792098121066481599
+Ranger.vrm(412판 방독 부대) — 「military ranger」(military_ranger_Q) by ispvitamin  https://hub.vroid.com/characters/1071219706235673912/models/1338668335972595359
+  셋 다 조건(2026-11-06 확인): 아바타 이용 모두 · 폭력 허용 · 수정 허용 · 재배포 허용 · 법인·개인 상업 허용 · 표기 불필요. 가공: strip_morph → shrink_vrm 512/768. 원본 dl/vroidhub/vrm/
+419판 영웅 넷 — 조건(2026-11-06 확인): 아바타 이용 모두 · 폭력 허용 · 수정 허용 · 재배포 허용 · 법인·개인 상업 허용 · 표기 불필요. 가공: strip_morph → shrink_vrm 512/768. 원본 dl/vroidhub/vrm/
+  Cheongwon.vrm(류청원) — 「浮松青侍」 by 彼方メタル  https://hub.vroid.com/characters/394071667140064657/models/3959938628904533065
+  Hayun.vrm(남하윤) — 「魔法使い」(Actor4) by つあ  https://hub.vroid.com/characters/1544837030744498397/models/7881216394337592558
+  Chaea.vrm(문채아) — 「魔法使いちゃん」 by ryosios  https://hub.vroid.com/characters/5952688068582994544/models/8441797568535969402
+  Eunsol.vrm(나은솔) — 「Agetha Arcana」 by BeanMChocolate  https://hub.vroid.com/characters/8374295001611825290/models/2244138072385231662
+430판 1~3성 영웅 열 — 조건(2026-11-06 확인): 수정·재배포·법인·개인 상업 허용(넷은 표기 필요 → 영웅 소개에 표기). 가공: strip_morph → shrink_vrm 512/768. 원본 dl/vroidhub/vrm/hero_<id>.vrm
+  Hangyeol.vrm(이한결) — Maiky 「いろいろアバター」  https://hub.vroid.com/characters/5555638572134596563/models/5706210946253671765
+  Daon.vrm(김다온) — ryosios 「ネコ狼ちゃん」  https://hub.vroid.com/characters/4756230683780231209/models/4356725369931567084
+  Saebyeok.vrm(박새벽) — 「魔導士ちゃん」  https://hub.vroid.com/characters/4850160117552759409/models/4852962067177187936
+  Mugyeol.vrm(정무결) — 赤月 踊華 「褐色エルフ」  https://hub.vroid.com/characters/5568335254189050041/models/635462589572266466  [표기 필요]
+  Gaon.vrm(최가온) — 「上野ニャン太 旅人ver」  https://hub.vroid.com/characters/5249614983998227850/models/5321309878919397814
+  Iseul.vrm(장이슬) — 「狐の子 浴衣バージョン」  https://hub.vroid.com/characters/5541095836614705348/models/424648708088216278
+  Doyun.vrm(오도윤) — りん 「エルフの女性」  https://hub.vroid.com/characters/4899142276185426841/models/5586366413714245953  [표기 필요]
+  Haram.vrm(신하람) — りん 「ハーフエルフの少年」  https://hub.vroid.com/characters/837855960779216460/models/1796089602764175936  [표기 필요]
+  Bau.vrm(곽바우) — CraftTable 「ケモミミちゃん(帯刀)」  https://hub.vroid.com/characters/9221205534199500366/models/6123016460250002279
+  Yeonu.vrm(임연우) — 「青エルフ【キキョウ】」  https://hub.vroid.com/characters/8138099192417192342/models/747649710854944655
+
+== assets/fishing/CREDITS.txt
+39판 낚시터 모델: Quaternius (CC0 1.0, 공개 도메인) — poly.pizza 에서 모델마다 CC0 확인 · 목록·주소는 rpg/dl/fishing/sources.json
+물고기(Fish Pack: 정어리·황금붕어·비단잉어·흰동가리·복어·쏠배감펭·나비고기·아귀·우럭·쥐돔·꼼치) · 연어 · 참치 · 문어 · 꽃게(Ultimate Monsters) · 상어 · 생선 뼈
+낚싯대 · 부두 · 오두막 부두 · 야자수 · 바위 · 보물 상자 · 양동이
+
+== assets/floor_pbr/CREDITS.txt
+바닥 텍스처 — Poly Haven (https://polyhaven.com), CC0 1.0 (공개 도메인). 1K jpg · diff(색)·nor_gl(노멀, OpenGL 방향)·rough(거칠기)
+돌 던전 stone_tiles_02 · 이끼 동굴 mossy_cobblestone · 용암 volcanic_rock_tiles · 얼음 snow_floor (207판, 10/29)
+벽 텍스처(210판) — Poly Haven CC0: 돌 medieval_blocks_03 · 이끼 mossy_stone_wall · 용암 castle_brick_07 · 얼음 castle_brick_02_white
+숲길(216판) — Poly Haven CC0: 흙길·방 테두리 forest_ground_04 (Rob Tuytel, Rico Cilliers)
+새 던전 테마(278판, 11/1) — Poly Haven CC0: 해안 동굴 바닥 coast_sand_rocks_02·벽 rock_wall_08 · 폐광 바닥 rocky_trail·벽 rock_wall_10 · 폐허 연구소 바닥 metal_plate·벽 concrete_wall_008 (1K → 512)
+해안 동굴 바닥 교체(452판, 11/7) — Poly Haven CC0: coast_sand_01 (1K → 512) — coast_sand_rocks_02 는 이끼 풀밭이라 뺌
+cracked_concrete — Poly Haven (CC0) https://polyhaven.com/a/cracked_concrete — 456판 폐허 도심·연구소 바닥(512 로 줄임)
+
+== assets/icons/CREDITS.txt
+스킬 아이콘(sk_*.svg) — game-icons.net (https://game-icons.net), 작가 Lorc·Delapouite 외, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+195판(10/29)에 더한 29개: crescent-blade earth-crack static-guard hammer-drop quake-stomp hammer-break psychic-waves rune-sword atomic-slashes spinning-blades crossed-swords crossed-slashes shield-bash shield-impact cross-shield arrow-cluster comet-spark circle-sparks reaper-scythe death-zone soul-vessel whirlwind lightning-arc blade-fall split-arrows sunbeams vortex soul afterburn
+원본 검은 바탕을 지우고 흰 그림만 남겼다(게임 안에서 색을 입힌다).
+
+== assets/kdungeon/CREDITS.txt
+assets/kdungeon/*.glb — KayKit Dungeon Remastered 1.0 by Kay Lousberg (CC0), https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0
+  모델마다 박힌 1024px 텍스처를 빼고(scripts/strip_glb_tex.py) dungeon_texture.png(512px) 하나를 코드에서 같이 쓴다.
+
+== assets/monsters/CREDITS.txt
+27판 테마 몬스터: Quaternius "Ultimate Monsters" (CC0 1.0, 공개 도메인) — https://quaternius.com/packs/ultimatemonsters.html
+내려받은 곳: poly.pizza (Quaternius 계정, 모델마다 CC0 확인) — 목록·주소는 rpg/dl/monsters/glb/sources.json
+Orc · Ninja · Goleling Evolved · Mushnub · Mushnub Evolved · Frog · Cactoro · Mushroom King · Demon · Blue Demon · Dragon · Ghost Skull · Dragon Evolved · Yeti · Glub · Ghost
+게임에서는 재질 색을 정점색으로 구워 한 표면으로 합쳐 쓴다(MeshMerge.bake_colors).
+
+278판 몬스터 12종 더: Quaternius (CC0 1.0) — poly.pizza Quaternius 계정, 모델마다 CC0 확인. 목록·주소는 rpg/dl/monsters/glb2/sources.json
+Spider · Bat · Wolf · Snake · Slime · Giant · Goblin · Zombie · Crab Enemy · Bee Enemy · Tribal · Hywirl
+늑대·거인·고블린·좀비는 색 칸 그림(*_Atlas.png)을 64px Image 자원(*.img.res, tools/atlas_img.gd)으로 저장해 정점색으로 굽는다.
+
+309판(11/2 사장님 "화풍 맞추기 — 2번 모두"): 같은 Quaternius "Ultimate Monsters" 묶음(CC0, poly.pizza 번들 Ultimate-Monsters-Bundle-5oyGWAmOB6)에서 19종 더 — 네모·각진 모델(늑대·거인·고블린·거미·뱀·박쥐)을 대신하고 새 무리 셋(하늘·젤리·도깨비)
+Alien · Alpaking · Alpaking Evolved · Armabee · Armabee Evolved · Birb · Bunny · Dino · Glub Evolved · Green Blob · Green Spiky Blob · Pink Slime · Squidle · Orc Enemy · Cat · Fish · Monkroose · Chicken(Chicken_UM)
+
+# 372판(2026-11-04): Quaternius CC0 — poly.pizza (Deer T6Cs7tmMHJ · Stag tQdzbZ1Cmw · Fox Bc97C66HKi · GrayWolf=Wolf P1gU3Qkr9r · Raccoon xMmx6VQP3r · Bull a8PIIYwF7r · Shark YYsK3gRCBZ · Tentacle BR1vpIvvvv · Blobfish 7Jh8vsARfN)
+# 374판(2026-11-05): Quaternius CC0 — poly.pizza Panda q1uJ28Hs8T(판다 · 어둡게 물들여 반달곰)
+# 375판(2026-11-05): Quaternius CC0 — poly.pizza Rat iltq5bVNaV(시궁쥐)
+# 458판(2026-11-07): Quaternius CC0(Public Domain) — poly.pizza Robot=Animated Robot QCm7qe9uNJ · Robot_Enemy 1gNo5ezvmr · Robot_Flying lF3jeRJwiH · Robot_FlyingGun UDTM6X1y9a · Robot_LegsGun lFZfDh2hzP · Robot_Large mPDR0L5uKx(폭주 기계들)
+
+== assets/music/CREDITS.txt
+assets/music/*.ogg — 모두 CC0(OpenGameArt). scripts/make_audio.py 로 OGG 96kbps·음량 맞춤.
+- lobby.ogg: Cleyton Kauffman, "Exploration Theme" — https://opengameart.org/content/exploration-theme
+- dungeon.ogg: request, "Heartfelt Battle (loopable)" — https://opengameart.org/content/heartfelt-battle-loopable-fantasy-stringspianohorn
+- boss.ogg: Juhani Junkala (SubspaceAudio), "Epic Boss Battle [Seamlessly Looping]" — https://opengameart.org/node/55649
+- 49판-f(10/23): 웹 메모리(곡을 통째로 풀어 올린다 — 4곡 ≈180MB) 때문에 모노·24kHz·q2 로 다시 인코딩. 원본은 rpg/dl/old_music/.
+- 151판(10/28) 테마별 던전 곡 — 모두 CC0(OpenGameArt), 모노·24kHz·q2 로 재인코딩(원본 rpg/dl/music_theme/):
+  forest.ogg(숲길): congusbongus, "Cathedral in the forest (ambient loop)" — https://opengameart.org/content/cathedral-in-the-forest-ambient-loop
+  ice.ogg(얼음 고개): Écrivain, "Icy Heights" theme-loop — https://opengameart.org/content/icy-heights
+  cave.ogg(이끼 동굴): Paul Wortmann, "Dark Cavern Ambient" 002 — https://opengameart.org/content/dark-cavern-ambient
+  lava.ogg(용암): Umplix, "Ambience of a Fallen Age" entering_the_volcano — https://opengameart.org/content/ambience-of-a-fallen-age
+- 415판(11/6) 보스 곡 셋 — 모두 CC0(OpenGameArt), 모노·24kHz·q2·loudnorm −20(원본 rpg/dl/music_boss/):
+  boss2.ogg(시군구 우두머리): cynicmusic, "Battle Theme B for RPG" — https://opengameart.org/content/battle-theme-b-for-rpg
+  overlord.ogg(시도 지배자): Emma_MA, "Determined Pursuit (epic orchestra loop)" — https://opengameart.org/content/determined-pursuit-epic-orchestra-loop
+  boss3.ogg(영웅 결전): HydroGene, "JRPG Epic Rock Battle Theme #1" loop — https://opengameart.org/content/jrpg-epic-rock-battle-theme-1
+  lab.ogg(폐허 연구소 테마): qubodup, "Dark Shrine Loop" — https://opengameart.org/content/dark-shrine-loop (CC0)
+
+== assets/nature/CREDITS.txt
+Quaternius "Stylized Nature MegaKit" [Standard, 무료판] — CC0 1.0 (https://quaternius.com/packs/stylizednaturemegakit.html · https://quaternius.itch.io/stylized-nature-megakit)
+90판(10/25): 로비 야외 캠프용으로 26개만 골라 넣고 텍스처를 512px(노멀맵 64px)로 줄임. 원본 rpg/dl/nature.
+
+== assets/props/CREDITS.txt
+63판-b 뼈 조각: KayKit "Halloween Bits 1.0" (CC0 1.0, Kay Lousberg) — https://github.com/KayKit-Game-Assets/KayKit-Halloween-Bits-1.0
+bone_A(해골이 쓰러질 때 튀는 뼈) + halloweenbits_texture.png. 예전엔 흰 상자 도형이었다.
+63판-c 던전 소품(테마별): coffin · gravestone · gravemarker_A · gravemarker_B · grave_A_destroyed · skull · skull_candle · candle_melted · candle_triple · pumpkin_orange_small · tree_dead_small · tree_dead_medium · lantern_standing · bone_B · bone_C — 같은 Halloween Bits(CC0)
+
+== assets/sfx/CREDITS.txt
+assets/sfx/*.ogg — 모두 CC0(크레딧 의무 없음, 고마움으로 남긴다). scripts/make_audio.py 로 골라 줄이고 음량을 맞췄다.
+- Kenney: RPG Audio · Impact Sounds · Interface Sounds · Sci-fi Sounds · Music Jingles (CC0) — https://kenney.nl
+- lentikula: Basic Spell Impacts (CC0) — https://lentikula.itch.io/freecc0-basic-spell-impacts-sfx
+39판 낚시터: splash = lentikula Basic Spell Impacts 'Water Spell Impact'(CC0) · reel·bite = Kenney Interface Sounds(scroll·drop, CC0) · catch = Kenney Music Jingles PIZZI06(CC0)
+음악 sea.ogg = 파도 소리 — ffmpeg 잡음(갈색·분홍)으로 직접 합성(저작권 없음)
+89판(10/25) 스킬 계열 소리 — scripts/make_audio.py 로 골라 줄이고 음량을 맞춤(원본 rpg/dl/sfx89):
+- swing·unsheathe = artisticdude "RPG Sound Pack" (CC0) — https://opengameart.org/content/rpg-sound-pack
+- flame·earth·chain·roar = rubberduck "80 CC0 RPG SFX" (CC0) — https://opengameart.org/content/80-cc0-rpg-sfx
+- magic = JaggedStone "magic spell sfx" (CC0) — https://opengameart.org/content/magic-spell-sfx
+- wind·heal·curse·freeze·zap·explode·warp·shield(·flame 일부) = p0ss "Spell Sounds Starter Pack" (CC-BY-SA 3.0) — https://opengameart.org/content/spell-sounds-starter-pack · 소리를 자르고 음량을 맞춘 사본은 같은 CC-BY-SA 3.0
+# 118판(10/26): thump_0~4 — Kenney "Impact Sounds"(CC0) impactPunch_heavy + 합성 저음(사인 50~74Hz 감쇠) 섞음
+517판(11/8) boom_big·impact_mid·whoosh·shatter·crack — scripts/make_sfx3.py 로 섞어 만듦: Kenney Impact Sounds(impactPunch·impactPlate·impactMetal·impactGlass, CC0) · lentikula Basic Spell Impacts 'Ice'(CC0) · rubberduck 80 CC0 RPG SFX(stones·blade, CC0) + 직접 합성한 저음·바람(저작권 없음)
+
+== assets/ui/CREDITS.txt
+24판 화면 장식(테두리·구분선): Kenney "Fantasy UI Borders" 1.0 (CC0) — https://kenney.nl/assets/fantasy-ui-borders
+  PNG/Double 의 Border·Panel 014(큰 창)·023(카드)·002(상단 판)·001(버튼), Divider Fade 003 — 흰색으로 바꿔 코드에서 색칠.
+글꼴: Pretendard Variable (OFL 1.1, © Kil Hyung-jin) — 쓰는 글자만 남겨 이름을 GakUI 로 바꿈(예약 글꼴 이름 규정)
+      Black Han Sans (OFL 1.1, © The Black Han Sans Project Authors) — 쓰는 글자만 남김(GakTitle)
+아이콘: game-icons.net (CC BY 3.0) — Lorc · Delapouite
+
+== assets/vfx/CREDITS.txt
+assets/vfx/*.png — Kenney Particle Pack (CC0 1.0), https://kenney.nl / https://github.com/Calinou/kenney-particle-pack
+  256px 흑백으로 줄여 씀(원본 512px). 크레딧 의무 없음(CC0) — 고마움으로 남긴다.
+효과 구성·수치 참고 — REEBOO Stylized VFX Free Sample (MIT, Copyright (c) 2026 REEBOO Labs), https://github.com/REEBO0/reeboo-stylized-vfx-free
+  hit_spark(섬광·빛무리·고리·불꽃 줄기 네 겹)·slash(빠르게 시작해 느리게 끝나는 휘두름, 꼬리 길이) 의 구성과 수치를 우리 웹 렌더러용으로 다시 썼다(코드 복사 아님).
+
+82판(10/25):
+- flip_bonfire/dizzy/heal/torch/fireflies.png = Kalponic Studio "Free Stylized Sprite VFX" (CC BY 4.0) — https://kalponic-studio.itch.io/free-stylized-sprite-vfx · 낱장을 4×4 한 장으로 묶고 줄임(scripts/make_flipbooks.py)
+- metal_noise.png = Profesor Shader "Anime Metal Shader for Godot (Metallic Toon)" textures/noise_warp.png (MIT, © 2026 Profesor Shader) — https://github.com/profesorshader/shader-anime-style-metal-aka-metallic-toon · 무기 금속 기법(scripts/toon_metal_w.gdshader)도 이 저장소를 참고
+- 칼 궤적(scripts/sword_trail.gd)은 Hyrdaboo "TrailRenderer" (MIT, © 2024 Hyrdaboo) — https://github.com/Hyrdaboo/TrailRenderer 의 구성을 참고해 새로 씀
+- fx_noise.png = scripts/make_fx_noise.py 로 직접 구운 수학 노이즈(저작권 없음)
+
+MIT License (Profesor Shader · Hyrdaboo 공통 문구)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+# 112판(10/26): effects/ — gtibo "VFX sketchbook" (MIT) https://github.com/gtibo/VFX-sketchbook — "halloween_explosion"(호박 얼굴 끔)·"fireball"(impact)·"earth_attack"(earth_spikes) by Thibaud Goiffon · shared/shaders·resources/hit 도 같은 저장소
+# 113판(10/26): flip_slash·flip_smoke·flip_shield·flip_burner·flip_portal·flip_gportal — Kalponic Studio "Free Stylized Sprite VFX" (CC BY 4.0) Sword Slash·Smoke·Shield Aura·GasBurner·Portals v2·Green Portal
+# 116판(10/26): flip_fw_violet·gold·cyan·green — gtibo "VFX sketchbook"(MIT) firework_explosion 을 데스크톱 렌더러로 찍어 구운 플립북(scripts/bake_flipbooks.py)
+# 120판(10/26): flip_cx_* 18장 — "Cartoon FX Remaster Free" by Jean Moreno (JMO), Unity Asset Store 표준 EULA(다른 엔진 사용 허용·재배포 금지 — 사장님 개인 게임 안에서만) · 유니티 6 에서 프리팹을 그대로 재생해 구움(rpg/unity_bake, scripts/pack_cfxr.py)
+# 122판(10/26): assets/anim/mixamo/*.fbx 20개 — Adobe Mixamo(사장님 어도비 계정, 게임 사용 무료·동작 파일 단독 재배포 금지) X Bot 제자리 동작, SkeletonProfileHumanoid 로 재지정
+
+== assets/weapons/CREDITS.txt
+63판-b 영웅 무기: KayKit "Adventurers Character Pack 1.0" (CC0 1.0, Kay Lousberg) — https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0
+sword_1handed(검) · crossbow_1handed(석궁) · staff(지팡이) + knight/rogue/mage_texture.png. 예전엔 적 해골용 뼈 무기를 빌려 썼다.
+
+67판 장비 외형: Characters Knight·Barbarian·Mage·Rogue.glb(같은 Adventurers, CC0)의 망토·투구·모자·방패 부품을 VRM 뼈에 붙인다
+
+142판 무기 교체(사장님 "막대기 느낌"): q/Sword·Sword_big·Dagger·Axe_Double·Bow_Wooden·Hammer_Double = Quaternius "Ultimate RPG Items Pack"(CC0, opengameart.org/content/low-poly-rpg-pack)
+q/Staff = TCCDev "Stylized Wizard Staff"(CC0, opengameart.org/content/stylized-wizard-staff). 석궁·방패·투구는 KayKit 그대로.
+
+pp/ (148판, 10/28) — poly.pizza 에서 내려받음, 모델마다 "Public Domain (CC0)" 확인
+- pp/Shield_Round.glb = Quaternius "Shield Round" — https://poly.pizza/m/lWajrVXcnA (CC0)
+- pp/Shield_Q2.glb    = Quaternius "Shield"       — https://poly.pizza/m/xoHSnOjsBG (CC0)
+- pp/Crossbow.glb     = CreativeTrio "Crossbow"   — https://poly.pizza/m/kHb0kA11oD (CC0)
+사신 낫(217판) — Quaternius "Scythe" (poly.pizza/m/yE9TKCewO8), CC0
+
+kw/ — KayKit : Fantasy Weapons Bits 1.0 (Kay Lousberg, CC0) — 등급별 검·지팡이·활(306판)
+pp/Scythe_Floop.glb = FloopBadModels123 "Scythe" — https://poly.pizza/m/gEPfoXAXQf (CC BY 3.0 — 출처 표기)
+pp/Scythe_SciFi.glb = Qubzy "SCI-FI Scythe" — https://poly.pizza/m/4pd07oJQPz (CC BY 3.0 — 출처 표기)
+307판: KayKit Adventurers axe_1handed·sword_2handed_color, Fantasy Weapons Bits 도끼·망치·단검 추가(모든 직업 등급별 모양)
+
